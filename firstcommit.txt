@@ -1,3 +1,4 @@
 first commit
 second commit
 firstcommit.txt has been changed in nonconflict branch
+not new firstcommit.txt
